@@ -82,7 +82,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/1.jpg" class="pho">
+      <img src="../../public/img/1.jpg" class="pho">
       <h2>王加葉</h2>
       <h3>數學組</h3>
       <h4>工作：活動</h4>
@@ -94,7 +94,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/2.jpg" class="pho">
+      <img src="../../public/img/2.jpg" class="pho">
       <h2>王彥捷</h2>
       <h3>化學組</h3>
       <h4>工作：活動</h4>
@@ -106,7 +106,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/3.jpg" class="pho">
+      <img src="../../public/img/3.jpg" class="pho">
       <h2>王璿宇</h2>
       <h3>數學組</h3>
       <h4>工作：總務</h4>
@@ -118,7 +118,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/4.jpg" class="pho">
+      <img src="../../public/img/4.jpg" class="pho">
       <h2>江孟恩</h2>
       <h3>物理組</h3>
       <h4>工作：活動(組長)</h4>
@@ -130,7 +130,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/5.jpg" class="pho">
+      <img src="../../public/img/5.jpg" class="pho">
       <h2>吳季澤</h2>
       <h3>化學組</h3>
       <h4>工作：公關(組長)​​</h4>
@@ -142,7 +142,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/6.jpg" class="pho">
+      <img src="../../public/img/6.jpg" class="pho">
       <h2>吳宥廷</h2>
       <h3>物理組</h3>
       <h4>工作：總務</h4>
@@ -154,7 +154,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/7.jpg" class="pho">
+      <img src="../../public/img/7.jpg" class="pho">
       <h2>李宗洋</h2>
       <h3>物理組</h3>
       <h4>工作：總務</h4>
@@ -166,7 +166,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/8.jpg" class="pho">
+      <img src="../../public/img/8.jpg" class="pho">
       <h2>周秉宏</h2>
       <h3>化學組</h3>
       <h4>工作：活動</h4>
@@ -178,7 +178,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/9.jpg" class="pho">
+      <img src="../../public/img/9.jpg" class="pho">
       <h2>林威廷</h2>
       <h3>物理組</h3>
       <h4>工作：總務</h4>
@@ -190,7 +190,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/10.jpg" class="pho">
+      <img src="../../public/img/10.jpg" class="pho">
       <h2>邱澤</h2>
       <h3>數學組</h3>
       <h4>工作：總務(組長)</h4>
@@ -202,7 +202,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/11.jpg" class="pho">
+      <img src="../../public/img/11.jpg" class="pho">
       <h2>胡睿宸</h2>
       <h3>物理組</h3>
       <h4>工作：活動</h4>
@@ -214,7 +214,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/12.jpg" class="pho">
+      <img src="../../public/img/12.jpg" class="pho">
       <h2>梁勝宥</h2>
       <h3>物理組</h3>
       <h4>工作：活動</h4>
@@ -226,7 +226,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/13.jpg" class="pho">
+      <img src="../../public/img/13.jpg" class="pho">
       <h2>許靖</h2>
       <h3>生物組</h3>
       <h4>工作：燈光音控​​</h4>
@@ -238,7 +238,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/14.jpg" class="pho">
+      <img src="../../public/img/14.jpg" class="pho">
       <h2>陳宇鋒</h2>
       <h3>生物組</h3>
       <h4>工作：燈光音控</h4>
@@ -250,7 +250,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/15.jpg" class="pho">
+      <img src="../../public/img/15.jpg" class="pho">
       <h2>陳定均</h2>
       <h3>化學組</h3>
       <h4>工作：美軒(組長)​​</h4>
@@ -262,7 +262,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/16.jpg" class="pho">
+      <img src="../../public/img/16.jpg" class="pho">
       <h2>陳羿嘉</h2>
       <h3>物理組</h3>
       <h4>工作：公關</h4>
@@ -274,7 +274,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/17.jpg" class="pho">
+      <img src="../../public/img/17.jpg" class="pho">
       <h2>陳泰然</h2>
       <h3>化學組</h3>
       <h4>工作：公關</h4>
@@ -286,7 +286,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/18.jpg" class="pho">
+      <img src="../../public/img/18.jpg" class="pho">
       <h2>楊恩睿</h2>
       <h3>化學組</h3>
       <h4>工作：公關</h4>
@@ -298,7 +298,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/19.jpg" class="pho">
+      <img src="../../public/img/19.jpg" class="pho">
       <h2>葉家維</h2>
       <h3>物理組</h3>
       <h4>工作：活動</h4>
@@ -310,7 +310,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/20.jpg" class="pho">
+      <img src="../../public/img/20.jpg" class="pho">
       <h2>廖志允</h2>
       <h3>生物組</h3>
       <h4>工作：總務</h4>
@@ -322,7 +322,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/21.jpg" class="pho">
+      <img src="../../public/img/21.jpg" class="pho">
       <h2>蒙定暘</h2>
       <h3>化學組</h3>
       <h4>工作：公關</h4>
@@ -334,7 +334,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/22.jpg" class="pho">
+      <img src="../../public/img/22.jpg" class="pho">
       <h2>趙子耀</h2>
       <h3>化學組</h3>
       <h4>工作：美軒​​</h4>
@@ -346,7 +346,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/23.jpg" class="pho">
+      <img src="../../public/img/23.jpg" class="pho">
       <h2>蔡承佑</h2>
       <h3>物理組</h3>
       <h4>工作：美軒​​</h4>
@@ -358,7 +358,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/24.jpg" class="pho">
+      <img src="../../public/img/24.jpg" class="pho">
       <h2>蔡承恩</h2>
       <h3>化學組</h3>
       <h4>工作：活動</h4>
@@ -370,7 +370,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/25.jpg" class="pho">
+      <img src="../../public/img/25.jpg" class="pho">
       <h2>鄧福寬</h2>
       <h3>物理組</h3>
       <h4>工作：總務</h4>
@@ -382,7 +382,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/26.jpg" class="pho">
+      <img src="../../public/img/26.jpg" class="pho">
       <h2>盧宣滈</h2>
       <h3>物理組</h3>
       <h4>工作：副召</h4>
@@ -394,7 +394,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/27.jpg" class="pho">
+      <img src="../../public/img/27.jpg" class="pho">
       <h2>賴宥霖</h2>
       <h3>生物組</h3>
       <h4>工作：美軒​​</h4>
@@ -406,7 +406,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/28.jpg" class="pho">
+      <img src="../../public/img/28.jpg" class="pho">
       <h2>林詠晴</h2>
       <h3>化學組</h3>
       <h4>工作：總召</h4>
@@ -418,7 +418,7 @@ const e =  ref(['鄧福寬' , '盧宣滈' , '賴宥霖' , '林詠晴' , '魏全�
       <div class="Back" @click="switchTab('0')">
         <p2>關閉視窗</p2>
       </div>
-      <img src="../img/29.jpg" class="pho">
+      <img src="../../public/img/29.jpg" class="pho">
       <h2>魏全儀</h2>
       <h3>生物組</h3>
       <h4>工作：美軒、燈光音控​​</h4>

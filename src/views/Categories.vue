@@ -146,7 +146,7 @@ const c = "在知識的泡沫中沉淪";
             <div class="H2"> <h2>小冊子</h2> </div>
             <a href="https://drive.google.com/file/d/1KWwx-GWXHp-HShDbzjcwptzD0FWK286P/view?usp=sharing" 
             class="aa">
-            <img src="../img/bro.png" id="bro" >
+            <img src="../../public/img/bro.png" id="bro" >
             <div class="sh"><p2>點擊可打開小冊子pdf</p2></div>
             </a>
           </div>
@@ -281,7 +281,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/a1.jpg" class="img">
+    <img src="../../public/img/a1.jpg" class="img">
     <h3>{{ a1 }}</h3>
     <h4>{{a11}}</h4>
     <div class="h5">
@@ -303,7 +303,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/b1.jpg" class="img">
+    <img src="../../public/img/b1.jpg" class="img">
     <h3>{{ b1 }}</h3>
     <h4>{{b11}}</h4>
     <div class="h5">
@@ -324,7 +324,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/b2.jpg" class="img">
+    <img src="../../public/img/b2.jpg" class="img">
     <h3>{{ b2 }}</h3>
     <h4>{{b21}}</h4>
     <div class="h5">
@@ -345,7 +345,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/b3.jpg" class="img">
+    <img src="../../public/img/b3.jpg" class="img">
     <h3>{{ b3 }}</h3>
     <h4>{{b31}}</h4>
     <div class="h5">
@@ -366,7 +366,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/b4.jpg" class="img">
+    <img src="../../public/img/b4.jpg" class="img">
     <h3>{{ b4 }}</h3>
     <h4>{{b41}}</h4>
     <div class="h5">
@@ -387,7 +387,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/b5.jpg" class="img">
+    <img src="../../public/img/b5.jpg" class="img">
     <h3>{{ b5 }}</h3>
     <h4>{{b51}}</h4>
     <div class="h5">
@@ -411,7 +411,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/c1.jpg" class="img">
+    <img src="../../public/img/c1.jpg" class="img">
     <h3>{{ c1 }}</h3>
     <h4>{{c11}}</h4>
     <div class="h5">
@@ -432,7 +432,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/c2.jpg" class="img">
+    <img src="../../public/img/c2.jpg" class="img">
     <h3>{{ c2 }}</h3>
     <h4>{{c21}}</h4>
     <div class="h5">
@@ -453,7 +453,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/c3.jpg" class="img">
+    <img src="../../public/img/c3.jpg" class="img">
     <h3>{{ c3 }}</h3>
     <h4>{{c31}}</h4>
     <div class="h5">
@@ -474,7 +474,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/c4.jpg" class="img">
+    <img src="../../public/img/c4.jpg" class="img">
     <h3>{{ c4 }}</h3>
     <h4>{{c41}}</h4>
     <div class="h5">
@@ -496,7 +496,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/d1.jpg" class="img">
+    <img src="../../public/img/d1.jpg" class="img">
     <h3>{{ d1 }}</h3>
     <h4>{{d11}}</h4>
     <div class="h5">
@@ -517,7 +517,7 @@ const c = "在知識的泡沫中沉淪";
       <p2>關閉視窗</p2>
     </div>
     <br/>
-    <img src="../img/d2.jpg" class="img">
+    <img src="../../public/img/d2.jpg" class="img">
     <h3>{{ d2 }}</h3>
     <h4>{{d21}}</h4>
     <div class="h5">

@@ -1,8 +1,5 @@
 <script setup>
 import Navbar from "./share/Navbar.vue"
-import Math from"./components/phy.vue"
-import ly from '../src/components/Lyrics.vue'
-
 </script>
 
 <!--template>

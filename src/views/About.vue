@@ -54,7 +54,7 @@ const c = "Metamorphosis，是指昆蟲和某些動物由幼年形態轉變為�
         <div id="a"></div>
         <div class="C1">
           <div class="H2"> <h2>邀請函</h2> </div>
-          <img src="../img/inv.jpg" id="inv" style="border-radius: 0.25em;"/>
+          <img src="../../public/img/inv.jpg" id="inv" style="border-radius: 0.25em;"/>
         </div>
       </div>
 
@@ -70,7 +70,7 @@ const c = "Metamorphosis，是指昆蟲和某些動物由幼年形態轉變為�
 
       <div v-if="activeTab === '成發歌曲'">
         <div id="d"></div>
-        <img src="../img/lyrics.png" id="lyc">
+        <img src="../../public/img/lyrics.png" id="lyc">
       </div>
 
     </div>
