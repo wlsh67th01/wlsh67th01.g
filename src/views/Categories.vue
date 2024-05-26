@@ -107,6 +107,12 @@ const d22 = '性別，一個會廣泛性影響許多生理與心理反應的因�
   }
   function switchShow(newShow) {
     activeShow.value = newShow;
+    var AAA = document.querySelector(".AA");
+    AAA.style='z-index: 10;';
+  }
+  function canClick() {
+    var AAA = document.querySelector(".AA");
+    AAA.style='z-index: -1;';
   }
   onMounted(() => {
     window.addEventListener('keydown', function(event) {
@@ -277,7 +283,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'a1'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -299,7 +305,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'b1'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -320,7 +326,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'b2'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -341,7 +347,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'b3'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -362,7 +368,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'b4'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -383,7 +389,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'b5'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -407,7 +413,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'c1'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -428,7 +434,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'c2'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -449,7 +455,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'c3'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -470,7 +476,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'c4'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -492,7 +498,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'd1'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -513,7 +519,7 @@ const c = "在知識的泡沫中沉淪";
 
 <div v-if="activeShow === 'd2'" class="a">
   <div class="cot">
-    <div class="Back" @click="switchShow('0')">
+    <div class="Back" @click="switchShow('0'),canClick()">
       <p2>關閉視窗</p2>
     </div>
     <br/>
@@ -677,14 +683,15 @@ span{
   width: 40%;
 }
 .AA{
+  z-index: -1;
   display: flex;
   flex-direction: column;
   justify-items: center;
   width: 80%;
   margin-left: 10%;
   font-size: 2em;
-  position: relative;
-  bottom: 500px;
+  position: absolute;
+  bottom: 530px;
 }
 .a{
   display: flex;
@@ -694,6 +701,7 @@ span{
   position: absolute;
   background-color: rgba(158, 255, 239, 0.948);
   border-radius: 0.25em;
+  border: solid #23139d;
 }
 .cot{
   height: 400px;
@@ -781,7 +789,6 @@ h4{font-size: 1rem;}
 h5{font-size: 1.3rem;}
 h6{font-size: 0.8rem;}
 h7{font-size: 1.3rem;}
-
 }
 
 @media (max-width: 1100px) {
