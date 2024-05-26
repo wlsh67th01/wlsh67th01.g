@@ -772,7 +772,11 @@ h7{
   padding: 3px;
   padding-bottom: 20px;
 }
-
+.img{
+  width: 96%;
+  margin-left: 2%;
+  height: auto;
+}
 
 
 @media (max-width: 2000px) {

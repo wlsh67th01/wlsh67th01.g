@@ -231,6 +231,12 @@ button{
 }
 
 @media (max-width: 380px) {
+    .img-box{
+        height: 190px;
+    }
+    img{
+        height: 190px;
+    }
     button{
         width: 18px;
         height: 18px;

@@ -172,6 +172,13 @@ span{
   align-items: start;
   padding: 2%;
 }
+#inv{
+  margin-left: 5%;
+  margin-bottom: 30px;
+  width: 90%;
+  height: auto;
+  border-radius: 1em;
+}
 
 
 @media (max-width: 2000px) {
@@ -317,19 +324,19 @@ span{
     margin-top: -10px;
   }
   #邀請函{
-    margin-left: -180px;
+    margin-left: -140px;
   }
   #主題含意{
-    margin-left: -95px;
+    margin-left: -75px;
   }
   #同學{
-    margin-left: 10px;
+    margin-left: 0px;
   }
   #成發歌曲{
-    margin-left: 80px;
+    margin-left: 50px;
   }
   .B{
-    font-size: 1em;
+    font-size: 0.7em;
   }
   .s2{
     height: 400px;

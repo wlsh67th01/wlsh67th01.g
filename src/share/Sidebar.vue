@@ -355,7 +355,7 @@ color: #000;
   @media (max-width: 380px) {
     .Slink{
       width:150px;
-      font-size: 0.7rem;
+      font-size: 1rem;
     }
     .sidebar{
       width: 150px;

@@ -272,7 +272,7 @@ p{
   
   @media (max-width: 380px) {
     h1{
-        font-size: 1.5em;
+        font-size: 1.4em;
     }
     h3{
         font-size: 1.2em;
